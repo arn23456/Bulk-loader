@@ -12,15 +12,15 @@
   "repository": "https://github.com/X-Gorn/BulkLoader",
   "env": {
     "BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "8189946127:AAG6e_0T8M9TKjzphS9bvE3XYGyvwtXB_NI",
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "26503823",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "97a4668f44d74064fc467fd2ee02a155",
       "value": ""
     },
     "OWNER_ID": {
